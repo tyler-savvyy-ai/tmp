@@ -1,0 +1,11 @@
+<app>
+     <id>gj8dl19d0</id>
+     <name>Savvyy.Admin.Web</name>
+     <provider>Savvyy</provider>
+     <description>A loan origination system</description>
+     <extensionpoint>
+          <location>LOAN_ACCOUNT_VIEW</location>
+          <label>Loan Origination System</label>
+          <url>https://los-admin-web-default.sit.q3.questech.io/api/debug</url>
+     </extensionpoint>
+</app>
