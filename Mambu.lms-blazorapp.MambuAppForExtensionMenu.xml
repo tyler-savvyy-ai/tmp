@@ -1,0 +1,11 @@
+<app>
+     <id>gj8dl19d2</id>
+     <name>LmsOrchestrator.Questrade.BlazorApp.MambuApp.ExtensionMenu</name>
+     <provider>Questrade</provider>
+     <description>Mambu App For Extension Menu</description>
+     <extensionpoint>
+          <location>EXTENSION_MENU</location>
+          <label>EXTENSION_MENU Mambu App</label>
+          <url>https://lms-blazorapp-default.sit.q3.questech.io/MambuAppForExtensionMenu</url>
+     </extensionpoint>
+</app>
