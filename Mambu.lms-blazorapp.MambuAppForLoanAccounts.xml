@@ -1,11 +1,11 @@
 <app>
      <id>gj8dl19d1</id>
-     <name>LmsOrchestrator.Questrade.BlazorApp</name>
+     <name>LmsOrchestrator.Questrade.BlazorApp.MambuApp.LOAN_ACCOUNT_VIEW</name>
      <provider>Questrade</provider>
-     <description>Extends Loan Account functionality Loan Managment System</description>
+     <description>Mambu App For LOAN_ACCOUNT_VIEW</description>
      <extensionpoint>
           <location>LOAN_ACCOUNT_VIEW</location>
-          <label>Loan Management System Extension</label>
+          <label>LOAN_ACCOUNT_VIEW Mambu App</label>
           <url>https://lms-blazorapp-default.sit.q3.questech.io/MambuAppForLoanAccounts</url>
      </extensionpoint>
 </app>
