@@ -5,7 +5,7 @@
      <description>Given a Mambu Loan Account Id, allows the user to manage Property Tax fees.</description>
      <extensionpoint>
           <location>LOAN_ACCOUNT_VIEW</location>
-          <label>/LMS/LOAN_ACCOUNT_VIEW/MambuAppForApplicationPropertyTax</label>
+          <label>Property Tax</label>
           <url>https://lms-blazorapp-default.sit.q3.questech.io/LMS/LOAN_ACCOUNT_VIEW/MambuAppForApplicationPropertyTax</url>
      </extensionpoint>
 </app>
