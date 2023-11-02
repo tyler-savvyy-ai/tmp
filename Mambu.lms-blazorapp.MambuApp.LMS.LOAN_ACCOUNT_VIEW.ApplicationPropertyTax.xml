@@ -1,0 +1,11 @@
+<app>
+     <id>LMS.LOAN_ACCCOUNT_VIEW.MambuAppForApplicationPropertyTaxController</id>
+     <name>Questrade.BlazorApp.Server.Controllers.LMS.LOAN_ACCCOUNT_VIEW.MambuAppForApplicationPropertyTaxController</name>
+     <provider>Questrade</provider>
+     <description>Given a Mambu Loan Account Id, allows the user to manage Property Tax fees.</description>
+     <extensionpoint>
+          <location>LOAN_ACCOUNT_VIEW</location>
+          <label>/LMS/LOAN_ACCOUNT_VIEW/MambuAppForApplicationPropertyTax</label>
+          <url>https://lms-blazorapp-default.sit.q3.questech.io/LMS/LOAN_ACCOUNT_VIEW/MambuAppForApplicationPropertyTax</url>
+     </extensionpoint>
+</app>
