@@ -2,7 +2,7 @@
      <id>LMS.EXTENSIONS_MENU.MambuAppForApplicationPropertyTax</id>
      <name>LmsOrchestrator.Questrade.BlazorApp.Server.Controllers.LMS.EXTENSIONS_MENU.MambuAppForApplicationPropertyTax</name>
      <provider>Questrade</provider>
-     <description>Given a Mambu Loan Account Id, allows the user to manage Property Tax fees.</description>
+     <description>Allows the user to manage Property Tax fees across municipalities.</description>
      <extensionpoint>
           <location>EXTENSIONS_MENU</location>
           <label>Property Tax</label>
