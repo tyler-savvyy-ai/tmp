@@ -1,0 +1,11 @@
+<app>
+     <id>LMS.EXTENSION_MENU.MambuAppForBrokerageCommission</id>
+     <name>LmsOrchestrator.Questrade.BlazorApp.Server.Controllers.LMS.EXTENSION_MENU.MambuAppForBrokerageCommission</name>
+     <provider>Questrade</provider>
+     <description>Allows the user to manage Brokerage commission.</description>
+     <extensionpoint>
+          <location>EXTENSION_MENU</location>
+          <label>Brokerage Commission</label>
+          <url>https://lms-blazorapp-default.sit.q3.questech.io/EXTENSION_MENU/MambuAppForBrokerageCommission</url>
+     </extensionpoint>
+</app>
