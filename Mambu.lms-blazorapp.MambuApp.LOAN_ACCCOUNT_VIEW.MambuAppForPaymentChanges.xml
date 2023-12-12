@@ -1,0 +1,11 @@
+<app>
+     <id>LMS.LOAN_ACCCOUNT_VIEW.MambuAppForPaymentChanges</id>
+     <name>LmsOrchestrator.Questrade.BlazorApp.Server.Controllers.LMS.LOAN_ACCCOUNT_VIEW.MambuAppForPaymentChanges</name>
+     <provider>Questrade</provider>
+     <description>Given a Mambu Loan Account Id, allows the user to do Payment related changes like change dates for payments or reschedule.</description>
+     <extensionpoint>
+          <location>LOAN_ACCOUNT_VIEW</location>
+          <label>Payment Change</label>
+          <url>https://lms-blazorapp-default.sit.q3.questech.io/LOAN_ACCOUNT_VIEW/MambuAppForPaymentChanges</url>
+     </extensionpoint>
+</app>
