@@ -1,0 +1,11 @@
+<app>
+     <id>digital-banking.lms.lms-portal.angular-dev-server</id>
+     <name>digital-banking.lms.lms-portal.angular-dev-server</name>
+     <provider>Questrade</provider>
+     <description>Allows Mambu API access from localhost.</description>
+     <extensionpoint>
+          <location>EXTENSION_MENU</location>
+          <label>Angular Dev Server</label>
+          <url>http://localhost:4200</url>
+     </extensionpoint>
+</app>
